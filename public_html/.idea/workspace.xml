@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91c95e0d-959f-496f-bc66-4e336c0c9c50" name="Default Changelist" comment="Пофиксис отображение таблицы, добавил расчет стоимости пошива&#10;&#10;# Conflicts:&#10;#&#9;assets/script/paint_update.js&#10;#&#9;assets/script/paint_update_2.js&#10;#&#9;execution_process/order_full_info_new.php&#10;#&#9;work_with_sketches/order_paint_new_create.php&#10;#&#9;work_with_sketches/order_paint_update.php&#10;#&#9;working_with_db/data_base_accountant.php&#10;#&#9;working_with_db/db_accountant_orders.php&#10;#&#9;working_with_db/db_turnover_table.php&#10;#&#9;working_with_db/final_report/final_report_main_page.php&#10;#&#9;working_with_db/final_report/final_report_update_main.php&#10;#&#9;working_with_db/final_report/life_search_for_plan.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update_main.php" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" notifyAboutMissingVendor="false" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1a24120f6c745831d45ae781a593d087ff160c78" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="98e6fe86-71f4-453f-b52b-4aac838f6f2e" />
+        <option name="url" value="https://github.com/PhenX/php-svg-lib.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1uFeUeI0QWybGudD9tZU3kepTRJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\Mat_test_1\public_html\assets\css\other_features_from_status_page" />
+      <recent name="C:\OpenServer\domains\Mat_test_1\public_html\assets\css\style_for_final_report" />
+      <recent name="C:\OpenServer\domains\Mat_test_1\public_html\assets\css\style_for_work_with_db" />
+      <recent name="C:\OpenServer\domains\Mat_test_1\public_html\assets\css\style_pink_page" />
+      <recent name="C:\OpenServer\domains\Mat_test_1\public_html\execution_process" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91c95e0d-959f-496f-bc66-4e336c0c9c50" name="Default Changelist" comment="" />
+      <created>1624265782098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624265782098</updated>
+      <workItem from="1624265783261" duration="2004000" />
+      <workItem from="1624286562419" duration="9404000" />
+      <workItem from="1624365085871" duration="7700000" />
+      <workItem from="1624447593691" duration="195000" />
+      <workItem from="1624448589954" duration="6073000" />
+      <workItem from="1624530683700" duration="5324000" />
+      <workItem from="1624546224304" duration="11254000" />
+      <workItem from="1624606546497" duration="19838000" />
+      <workItem from="1624627225140" duration="197000" />
+      <workItem from="1624631980874" duration="439000" />
+      <workItem from="1624784377777" duration="7173000" />
+      <workItem from="1624801844221" duration="11106000" />
+      <workItem from="1624865119266" duration="3893000" />
+      <workItem from="1624874924554" duration="15859000" />
+      <workItem from="1624895788376" duration="9647000" />
+      <workItem from="1624906875277" duration="967000" />
+      <workItem from="1624956112529" duration="8010000" />
+      <workItem from="1624967788492" duration="1130000" />
+      <workItem from="1624973313573" duration="320000" />
+      <workItem from="1624983720967" duration="47000" />
+      <workItem from="1624984109693" duration="2509000" />
+      <workItem from="1625039214036" duration="12475000" />
+      <workItem from="1625055685363" duration="142000" />
+      <workItem from="1625057009079" duration="467000" />
+      <workItem from="1625066091549" duration="11405000" />
+      <workItem from="1625121002558" duration="2089000" />
+      <workItem from="1625123163206" duration="677000" />
+      <workItem from="1625129360804" duration="15275000" />
+      <workItem from="1625153714180" duration="4753000" />
+      <workItem from="1625163806199" duration="2530000" />
+      <workItem from="1625166515573" duration="136000" />
+      <workItem from="1625209330229" duration="14333000" />
+      <workItem from="1625251929971" duration="1388000" />
+      <workItem from="1625385391809" duration="16909000" />
+      <workItem from="1625467362194" duration="15452000" />
+      <workItem from="1625496541466" duration="396000" />
+      <workItem from="1625551041671" duration="14428000" />
+      <workItem from="1625567800419" duration="4850000" />
+      <workItem from="1625582992433" duration="6952000" />
+      <workItem from="1625639790955" duration="2813000" />
+      <workItem from="1625663127266" duration="22000" />
+      <workItem from="1625732458122" duration="39000" />
+      <workItem from="1626184852189" duration="617000" />
+      <workItem from="1626845542074" duration="21190000" />
+      <workItem from="1626941854999" duration="9356000" />
+      <workItem from="1626957946907" duration="955000" />
+      <workItem from="1627023342578" duration="14411000" />
+      <workItem from="1627045834975" duration="1434000" />
+      <workItem from="1627216833532" duration="2654000" />
+      <workItem from="1648135867320" duration="12629000" />
+      <workItem from="1648194219465" duration="16253000" />
+      <workItem from="1648299632848" duration="17137000" />
+      <workItem from="1648322719236" duration="520000" />
+      <workItem from="1648380396937" duration="882000" />
+      <workItem from="1648387040000" duration="21975000" />
+      <workItem from="1648450717737" duration="3892000" />
+      <workItem from="1648457450217" duration="13653000" />
+      <workItem from="1648477552015" duration="12415000" />
+      <workItem from="1648496011563" duration="14000" />
+      <workItem from="1648496720352" duration="2291000" />
+      <workItem from="1648499264972" duration="123000" />
+      <workItem from="1648569198147" duration="11003000" />
+      <workItem from="1648640045708" duration="12908000" />
+      <workItem from="1648738792330" duration="13762000" />
+      <workItem from="1648807850109" duration="15441000" />
+      <workItem from="1648844833101" duration="627000" />
+      <workItem from="1648887292231" duration="26460000" />
+      <workItem from="1648973606159" duration="18100000" />
+      <workItem from="1649094905355" duration="5755000" />
+      <workItem from="1649172214922" duration="5152000" />
+      <workItem from="1649259219958" duration="193000" />
+      <workItem from="1650469723937" duration="2042000" />
+      <workItem from="1651240217933" duration="13479000" />
+      <workItem from="1651419736164" duration="4627000" />
+      <workItem from="1651504211438" duration="640000" />
+      <workItem from="1651506411003" duration="597000" />
+      <workItem from="1652193452881" duration="16000" />
+      <workItem from="1652597352546" duration="757000" />
+      <workItem from="1652599154014" duration="402000" />
+      <workItem from="1652810341354" duration="4762000" />
+      <workItem from="1653058333052" duration="86000" />
+      <workItem from="1653058485916" duration="5530000" />
+      <workItem from="1653076419511" duration="7609000" />
+      <workItem from="1653128307310" duration="19669000" />
+      <workItem from="1653201886996" duration="3644000" />
+      <workItem from="1653223584181" duration="635000" />
+      <workItem from="1653560603112" duration="33000" />
+      <workItem from="1653569705795" duration="2950000" />
+      <workItem from="1653591197105" duration="417000" />
+      <workItem from="1655044004912" duration="4434000" />
+      <workItem from="1655105383005" duration="5447000" />
+      <workItem from="1655193316956" duration="1389000" />
+      <workItem from="1655196478642" duration="62000" />
+      <workItem from="1655223392621" duration="20000" />
+      <workItem from="1655406652758" duration="1037000" />
+      <workItem from="1655548187570" duration="24782000" />
+      <workItem from="1655581783390" duration="657000" />
+      <workItem from="1655627151399" duration="28362000" />
+      <workItem from="1655719740438" duration="21000" />
+      <workItem from="1655726295433" duration="8313000" />
+      <workItem from="1655820535017" duration="6100000" />
+      <workItem from="1655887622885" duration="18105000" />
+      <workItem from="1655970861278" duration="19779000" />
+      <workItem from="1655992403650" duration="417000" />
+      <workItem from="1656007175987" duration="7635000" />
+      <workItem from="1656058423350" duration="6074000" />
+      <workItem from="1656068605324" duration="37000" />
+      <workItem from="1656068811093" duration="64000" />
+      <workItem from="1656503095894" duration="259000" />
+      <workItem from="1658247321994" duration="5771000" />
+      <workItem from="1658761098095" duration="8729000" />
+      <workItem from="1658825716825" duration="6376000" />
+      <workItem from="1658910503785" duration="17794000" />
+      <workItem from="1659003191197" duration="5638000" />
+      <workItem from="1659082696994" duration="1923000" />
+      <workItem from="1659097269943" duration="6589000" />
+      <workItem from="1659261482966" duration="4999000" />
+      <workItem from="1660132246674" duration="5500000" />
+      <workItem from="1660561338601" duration="1413000" />
+      <workItem from="1662474817205" duration="810000" />
+      <workItem from="1662559827569" duration="26000" />
+      <workItem from="1662814505293" duration="79000" />
+      <workItem from="1662814638170" duration="2816000" />
+      <workItem from="1663004891404" duration="46000" />
+      <workItem from="1663009454619" duration="105000" />
+      <workItem from="1663068101825" duration="443000" />
+      <workItem from="1663069905557" duration="15000" />
+      <workItem from="1663360738257" duration="807000" />
+      <workItem from="1663755877040" duration="539000" />
+      <workItem from="1663763485275" duration="650000" />
+      <workItem from="1663823908029" duration="9000" />
+      <workItem from="1663824027143" duration="274000" />
+      <workItem from="1663929529991" duration="77000" />
+      <workItem from="1664037858497" duration="257000" />
+      <workItem from="1664042307367" duration="1503000" />
+      <workItem from="1664114213461" duration="176000" />
+      <workItem from="1664270142125" duration="684000" />
+      <workItem from="1664710123262" duration="643000" />
+      <workItem from="1664973329554" duration="2000" />
+      <workItem from="1665066236330" duration="686000" />
+      <workItem from="1665133996310" duration="1488000" />
+      <workItem from="1665413473168" duration="3629000" />
+      <workItem from="1665430565367" duration="11000" />
+      <workItem from="1665922315459" duration="2881000" />
+      <workItem from="1666008507058" duration="20000" />
+      <workItem from="1666186058435" duration="14599000" />
+      <workItem from="1666276849102" duration="9622000" />
+      <workItem from="1666290586443" duration="1147000" />
+      <workItem from="1666291767903" duration="328000" />
+      <workItem from="1666292111282" duration="159000" />
+      <workItem from="1666292288800" duration="932000" />
+      <workItem from="1666293237671" duration="508000" />
+      <workItem from="1666335027835" duration="2760000" />
+      <workItem from="1666423277947" duration="1135000" />
+      <workItem from="1666427451397" duration="8147000" />
+      <workItem from="1666441750733" duration="159000" />
+      <workItem from="1666441927640" duration="906000" />
+      <workItem from="1666446939026" duration="622000" />
+      <workItem from="1666456244714" duration="83000" />
+      <workItem from="1666458153603" duration="9486000" />
+      <workItem from="1666523721153" duration="11674000" />
+      <workItem from="1666620747634" duration="11441000" />
+      <workItem from="1666633848229" duration="288000" />
+      <workItem from="1666710469152" duration="507000" />
+      <workItem from="1666710990950" duration="3442000" />
+      <workItem from="1666714477168" duration="160000" />
+      <workItem from="1666714652181" duration="18000" />
+      <workItem from="1666784273158" duration="14440000" />
+      <workItem from="1666804179005" duration="224000" />
+      <workItem from="1666804415379" duration="10000" />
+      <workItem from="1666881174251" duration="9278000" />
+      <workItem from="1666890777399" duration="245000" />
+      <workItem from="1666891036832" duration="22000" />
+      <workItem from="1666944465197" duration="1520000" />
+      <workItem from="1667029676157" duration="18383000" />
+      <workItem from="1667051076486" duration="80000" />
+      <workItem from="1667051170762" duration="18000" />
+      <workItem from="1667118415544" duration="6180000" />
+      <workItem from="1667228756076" duration="2387000" />
+      <workItem from="1667398010642" duration="4407000" />
+      <workItem from="1667501226743" duration="19000" />
+      <workItem from="1667547754140" duration="22387000" />
+      <workItem from="1667631716499" duration="11104000" />
+      <workItem from="1667666151051" duration="722000" />
+      <workItem from="1667666891183" duration="49000" />
+      <workItem from="1667678254309" duration="667000" />
+      <workItem from="1667722339223" duration="3293000" />
+      <workItem from="1667728267038" duration="57000" />
+      <workItem from="1667740590157" duration="240000" />
+      <workItem from="1668082330705" duration="5248000" />
+      <workItem from="1668095702470" duration="518000" />
+      <workItem from="1668160712735" duration="2190000" />
+      <workItem from="1668167491322" duration="30000" />
+      <workItem from="1668167535684" duration="108000" />
+      <workItem from="1668167656489" duration="18000" />
+      <workItem from="1668167858134" duration="24000" />
+      <workItem from="1668337582735" duration="4577000" />
+      <workItem from="1668359982443" duration="595000" />
+      <workItem from="1668410631257" duration="5239000" />
+      <workItem from="1668440329561" duration="5676000" />
+      <workItem from="1668497787450" duration="19800000" />
+      <workItem from="1668531567494" duration="26000" />
+      <workItem from="1668597218603" duration="8089000" />
+      <workItem from="1668609355422" duration="2762000" />
+      <workItem from="1668612153020" duration="11000" />
+      <workItem from="1668693013387" duration="843000" />
+      <workItem from="1668697092037" duration="765000" />
+      <workItem from="1668697876594" duration="12000" />
+      <workItem from="1668698334613" duration="31000" />
+      <workItem from="1668796462966" duration="1690000" />
+      <workItem from="1669017418177" duration="11715000" />
+      <workItem from="1669044443042" duration="325000" />
+      <workItem from="1669044784403" duration="44000" />
+      <workItem from="1669098728560" duration="12297000" />
+      <workItem from="1669134557843" duration="62000" />
+      <workItem from="1669142679257" duration="669000" />
+      <workItem from="1669205710531" duration="37000" />
+      <workItem from="1669225989913" duration="6503000" />
+      <workItem from="1669266455882" duration="382000" />
+      <workItem from="1669291388747" duration="4003000" />
+      <workItem from="1669360286034" duration="14753000" />
+      <workItem from="1669389607181" duration="36000" />
+      <workItem from="1669453965540" duration="2330000" />
+      <workItem from="1669459728215" duration="22000" />
+      <workItem from="1669537302321" duration="1345000" />
+      <workItem from="1669545042840" duration="167000" />
+      <workItem from="1669736259451" duration="100000" />
+      <workItem from="1669815416816" duration="5630000" />
+      <workItem from="1669911889672" duration="5654000" />
+      <workItem from="1670003282472" duration="7795000" />
+      <workItem from="1670012129841" duration="90000" />
+      <workItem from="1670012231904" duration="318000" />
+      <workItem from="1670066951850" duration="698000" />
+      <workItem from="1670093655186" duration="5116000" />
+      <workItem from="1670142637246" duration="37447000" />
+      <workItem from="1670225259207" duration="306000" />
+      <workItem from="1670238262477" duration="275000" />
+      <workItem from="1671527248438" duration="1210000" />
+      <workItem from="1671555842910" duration="8191000" />
+      <workItem from="1671607078811" duration="11292000" />
+      <workItem from="1671700988865" duration="7717000" />
+      <workItem from="1671802362409" duration="15654000" />
+      <workItem from="1671820371667" duration="20000" />
+      <workItem from="1671820690278" duration="82000" />
+      <workItem from="1671822220116" duration="1115000" />
+      <workItem from="1671824213670" duration="84000" />
+      <workItem from="1671878631745" duration="3877000" />
+      <workItem from="1673285747148" duration="97000" />
+      <workItem from="1674653851987" duration="662000" />
+      <workItem from="1674736394729" duration="29000" />
+      <workItem from="1674751252480" duration="1157000" />
+      <workItem from="1674901542879" duration="1313000" />
+      <workItem from="1675251806578" duration="565000" />
+      <workItem from="1677412922255" duration="611000" />
+      <workItem from="1678712104394" duration="1312000" />
+      <workItem from="1679076935392" duration="148000" />
+      <workItem from="1687691424236" duration="317000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1666335496544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666335496544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1666427353928</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666427353928</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test commit">
+      <created>1666442241431</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666442241431</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test commit">
+      <created>1666442283142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666442283142</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test commit">
+      <created>1666442403451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666442403451</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test commit">
+      <created>1666714516101</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666714516101</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test commit">
+      <created>1666714546968</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666714546968</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test commit">
+      <created>1666804241229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666804241229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test commit">
+      <created>1666890810049</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666890810049</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test commit">
+      <created>1666890823326</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666890823326</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test commit">
+      <created>1667051099041</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667051099041</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test commit">
+      <created>1667051117983</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667051117983</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test commit">
+      <created>1667666189940</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667666189940</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test commit">
+      <created>1667666641155</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667666641155</updated>
+    </task>
+    <task id="LOCAL-00015" summary="test commit">
+      <created>1667666682743</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667666682743</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test commit">
+      <created>1668095775770</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668095775770</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;index.php">
+      <created>1668096067046</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1668096067046</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;index.php">
+      <created>1668096143317</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668096143317</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;index.php">
+      <created>1668167572267</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1668167572267</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;index.php">
+      <created>1668609390849</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668609390849</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Логирование почты и изменение цен админом&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php">
+      <created>1668611281247</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1668611281247</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Логирование почты и изменение цен админом&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php">
+      <created>1668612125336</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1668612125336</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Уведомление о создании заказа&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php">
+      <created>1668697123128</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1668697123128</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Пофиксис отображение таблицы, добавил расчет стоимости пошива&#10;&#10;# Conflicts:&#10;#&#9;assets/script/paint_update.js&#10;#&#9;assets/script/paint_update_2.js&#10;#&#9;execution_process/order_full_info_new.php&#10;#&#9;work_with_sketches/order_paint_new_create.php&#10;#&#9;work_with_sketches/order_paint_update.php&#10;#&#9;working_with_db/data_base_accountant.php&#10;#&#9;working_with_db/db_accountant_orders.php&#10;#&#9;working_with_db/db_turnover_table.php&#10;#&#9;working_with_db/final_report/final_report_main_page.php&#10;#&#9;working_with_db/final_report/final_report_update_main.php&#10;#&#9;working_with_db/final_report/life_search_for_plan.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update_main.php">
+      <created>1669044519202</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1669044519202</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Пофиксис отображение таблицы, добавил расчет стоимости пошива&#10;&#10;# Conflicts:&#10;#&#9;assets/script/paint_update.js&#10;#&#9;assets/script/paint_update_2.js&#10;#&#9;execution_process/order_full_info_new.php&#10;#&#9;work_with_sketches/order_paint_new_create.php&#10;#&#9;work_with_sketches/order_paint_update.php&#10;#&#9;working_with_db/data_base_accountant.php&#10;#&#9;working_with_db/db_accountant_orders.php&#10;#&#9;working_with_db/db_turnover_table.php&#10;#&#9;working_with_db/final_report/final_report_main_page.php&#10;#&#9;working_with_db/final_report/final_report_update_main.php&#10;#&#9;working_with_db/final_report/life_search_for_plan.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update_main.php">
+      <created>1669044640650</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1669044640650</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="67eb0218-41e9-4d62-a0bb-48a2f96144e5">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="67eb0218-41e9-4d62-a0bb-48a2f96144e5" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;index.php" />
+    <MESSAGE value="&quot;Добавил логирование&quot;&#10;&#10;# Conflicts:&#10;#&#9;index.php" />
+    <MESSAGE value="Добавил логирование&#10;&#10;# Conflicts:&#10;#&#9;index.php" />
+    <MESSAGE value="Логирование почты и изменение цены админом&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php" />
+    <MESSAGE value="Логирование почты&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php" />
+    <MESSAGE value="Логирование почты и изменение цен админом&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php" />
+    <MESSAGE value="Уведомление о создании заказа&#10;&#10;# Conflicts:&#10;#&#9;working_with_db/final_report/life_search_for_plan.php" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;assets/script/paint_update.js&#10;#&#9;assets/script/paint_update_2.js&#10;#&#9;execution_process/order_full_info_new.php&#10;#&#9;work_with_sketches/order_paint_new_create.php&#10;#&#9;work_with_sketches/order_paint_update.php&#10;#&#9;working_with_db/data_base_accountant.php&#10;#&#9;working_with_db/db_accountant_orders.php&#10;#&#9;working_with_db/db_turnover_table.php&#10;#&#9;working_with_db/final_report/final_report_main_page.php&#10;#&#9;working_with_db/final_report/final_report_update_main.php&#10;#&#9;working_with_db/final_report/life_search_for_plan.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update_main.php" />
+    <MESSAGE value="Пофиксис отображение таблицы, добавил расчет стоимости пошива&#10;&#10;# Conflicts:&#10;#&#9;assets/script/paint_update.js&#10;#&#9;assets/script/paint_update_2.js&#10;#&#9;execution_process/order_full_info_new.php&#10;#&#9;work_with_sketches/order_paint_new_create.php&#10;#&#9;work_with_sketches/order_paint_update.php&#10;#&#9;working_with_db/data_base_accountant.php&#10;#&#9;working_with_db/db_accountant_orders.php&#10;#&#9;working_with_db/db_turnover_table.php&#10;#&#9;working_with_db/final_report/final_report_main_page.php&#10;#&#9;working_with_db/final_report/final_report_update_main.php&#10;#&#9;working_with_db/final_report/life_search_for_plan.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update_main.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пофиксис отображение таблицы, добавил расчет стоимости пошива&#10;&#10;# Conflicts:&#10;#&#9;assets/script/paint_update.js&#10;#&#9;assets/script/paint_update_2.js&#10;#&#9;execution_process/order_full_info_new.php&#10;#&#9;work_with_sketches/order_paint_new_create.php&#10;#&#9;work_with_sketches/order_paint_update.php&#10;#&#9;working_with_db/data_base_accountant.php&#10;#&#9;working_with_db/db_accountant_orders.php&#10;#&#9;working_with_db/db_turnover_table.php&#10;#&#9;working_with_db/final_report/final_report_main_page.php&#10;#&#9;working_with_db/final_report/final_report_update_main.php&#10;#&#9;working_with_db/final_report/life_search_for_plan.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update.php&#10;#&#9;working_with_orders/pink_all_elements_of_the_mutable_update_main.php" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
